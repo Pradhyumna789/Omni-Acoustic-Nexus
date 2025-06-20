@@ -1,6 +1,6 @@
 # Omni-Acoustic-Nexus
 
-## An audio library powered by AWS S3 and Cloudfront CDN's
+## An Audio Library Powered By AWS S3 and Cloudfront CDN's
 
 ### Project Abstract
 
